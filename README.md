@@ -7,8 +7,11 @@ This project creates a webpage that provides instructions on how to make tea. Th
 
 **Features**
 Dynamic Layout: The page layout is generated using JavaScript, including header, content, and footer.
+
 Icon Hover Effects: The ingredients and preparation sections include interactive hover effects on Font Awesome icons.
+
 Responsive Design: JavaScript is used to handle responsiveness, adjusting the page layout based on the screen width.
+
 Step-by-Step Preparation: The recipe includes a step-by-step guide with hover interactions
 
 **Technologies Used**
